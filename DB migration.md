@@ -1,4 +1,4 @@
-# Schema migration?
+# DB migration?
 
 ## golang migrate
 
